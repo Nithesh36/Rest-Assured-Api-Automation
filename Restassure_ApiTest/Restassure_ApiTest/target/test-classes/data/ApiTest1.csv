@@ -1,0 +1,25 @@
+id,title,author
+1,ApiTester,Jaisurya
+2,SeleniumTester,Jai VS
+3,null
+
+
+posts[0].title,ApiTester,
+posts[0].author,Jaisurya,
+posts[1].id,2,
+posts[1].title,SeleniumTester,
+posts[1].author,Jai VS,
+posts[2].id,3,
+posts[2].title,null,
+comments[0].id,1,
+comments[0].body,Excellent,
+comments[0].postId,1,
+profile[0].name,Jacob,
+address.primary[0].city,Auckland,
+address.primary[0].State,Auckland,
+address.primary[0].Country,New Zealand,
+address.primary[0].PinCode,1010,
+address.primary[1].city,Queenstown,
+address.primary[1].State,Queenstown,
+address.primary[1].Country,New Zealand,
+address.primary[1].PinCode,34232,
